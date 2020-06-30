@@ -1,0 +1,8 @@
+1) crazione account github
+2) creare, condividere e modificare file in una repository pubblica
+3) python e i tipi di dati (float, string, int)
+   differenze tra liste (indicate con []) e dizionari (indicati con {})
+4) modificare i valori all'interno di un dizionario
+5) script vari (esempio il programma che indicava all'utente se avrebbe potuto votare o no)
+6) programma di erogazione del resto in una macchinetta automatica (compito per la prossima
+   volta)
